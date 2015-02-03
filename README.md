@@ -1,6 +1,7 @@
 #CS/COE 1501 Assignment 2
 
 Posted:  Feb 2, 2015
+
 ***Due:  Feb 22, 2015***
 
 ##Goal:
@@ -55,7 +56,7 @@ You should organize your results of these compressions/inflations into a table i
 * You must be able to compile your game by running "javac MyLZW.java".
 * You must be able to run your program as shown in the above example.
 * You must fill out info_sheet.txt.
-* Be sure to remember to push the latest copy of your code back to your GitHub repository before the the assignment is due.  At 12:00 AM Feb 2, the repositories will automatically be copied for grading.  Whatever is present in your GitHub repository at that time will be considered your submission for this assignment.
+* Be sure to remember to push the latest copy of your code back to your GitHub repository before the the assignment is due.  At 12:00 AM Feb 23, the repositories will automatically be copied for grading.  Whatever is present in your GitHub repository at that time will be considered your submission for this assignment.
   	
 ##Additional Notes/Hints:
 * In the author's code the bits per codeword (W) and number of codewords (L) values are constants. However, in your version you will need them to be variables. Clearly, as the bits per codeword value increases, so does the number of codewords value.
